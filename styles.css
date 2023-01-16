@@ -1,0 +1,20 @@
+* {
+    background-color: lightslategray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: deepskyblue;
+}
+
+h2 {
+    color: rgb(129, 61, 12);
+}
+
+h1, h2 {
+    font-style: italic;
+}
+
+.recipe-image {
+    width: 25vw;
+}
